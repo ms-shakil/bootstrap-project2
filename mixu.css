@@ -1,0 +1,48 @@
+.navbar{
+    background: white;
+    box-shadow: 2px 2px 5px #3292a6;
+    opacity: 0.9;
+}
+.navbar-nav{
+    font-size: 22px;
+    margin-right: 5px;
+}
+#home-section{
+    background: url(mountain.jpg) no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 600px;
+}
+.colr-overlay{
+    background:rgba(50, 146, 166, 0.8) ;
+    min-height: 600px;
+    margin-top: 110px;
+}
+.home-inner{
+    padding-top: 30px;
+}
+.about-are{
+    background-color: #F8F9FA;
+}
+.fa1{
+    font-size: 25px;
+}
+.crd-size{
+    margin-top: -60px;
+}
+.card1:hover{
+    background: #3292A6;
+    color: white;
+    transition: 1.5s;
+}
+.card1:hover .fa1{
+    color: white;
+}
+.cont-area{
+    background: #F8F9FA;
+}
+.last-area{
+    background: #3292A6;
+    color: white;
+    padding: 50px;
+}
